@@ -1,5 +1,3 @@
-Development updates, patch notes, and progress for The Path, a 3D parkour game built in Unreal Engine 5.
-
 # The Path
 
 The Path is a 3D parkour platformer currently in development in Unreal Engine 5.
