@@ -1,6 +1,6 @@
-#Storm Lightning System
+# Storm Lightning System
 
-##Overview
+## Overview
 
 Storming Peaks uses a dynamic lightning system built with Unreal Engine 5 Blueprints and Niagara.
 
