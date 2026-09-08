@@ -10,7 +10,7 @@ The Path is a multi-level 3D parkour game focused on movement, environmental haz
 
 Players progress through distinct environments connected through a central hub, with each level introducing new traversal challenges and visual themes.
 
-##Features
+## Features
 
 - Third-person parkour movement
 - Sprinting, wall-running, and mantling
@@ -24,9 +24,9 @@ Players progress through distinct environments connected through a central hub, 
 - Custom menus and UI
 - Blueprint and C++ gameplay systems
 
-##Current Development
+## Current Development
 
-###Storming Peaks
+### Storming Peaks
 
 Storming Peaks is a high-altitude level featuring:
 
@@ -39,13 +39,13 @@ Storming Peaks is a high-altitude level featuring:
 - Dynamic rain
 This level is currently in active development.
 
-##Technology
+## Technology
 
 - Unreal Engine 5
 - C++
 - Blueprint Visual Scripting
 - Niagara
-- Git / GitHub
+- Git/GitHub
 
 ##Development Progress
 More detailed updates can be found in the `devlogs` folder and `CHANGELOG.md`.
