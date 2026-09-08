@@ -73,6 +73,6 @@ Implemented:
 
 In Progress:
 
-- Parkour strike locations
-- Player damage
+- Parkourcourse strike locations
+- Player death by lightning
 - Thunder audio
