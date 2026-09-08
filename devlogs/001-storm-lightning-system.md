@@ -35,7 +35,7 @@ The system is being designed with two types of strikes:
 Used primarily for atmosphere and environmental effects.
 
 ### Parkour Strikes
-Planned gameplay hazards that will strike playable areas and potentially damage or kill the player.
+Planned gameplay hazards that will strike playable areas and kill the player if within range.
 
 The system can randomly choose between background and parkour locations.
 
