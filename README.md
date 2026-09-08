@@ -2,7 +2,7 @@
 
 The Path is a 3D parkour platformer currently in development in Unreal Engine 5.
 
-This repository documents the development of the game, including gameplay systems, level design progress, visual improvements, bug fixes, and future demo releases.
+This repository documents the current development of the game, and future demo releases.
 
 ## About the Game
 
