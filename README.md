@@ -30,12 +30,11 @@ Players progress through distinct environments connected through a central hub, 
 
 Storming Peaks is a high-altitude level featuring:
 
-- Floating islands
+- Floating islands which players have to travesre
 - Volumetric storm clouds
 - Dynamic lightning
 - Blue burning flames in wreckage
 - Ancient ruins
-- Parkour-focused environmental hazards
 - Dynamic rain
   
 This level is currently in active development.
