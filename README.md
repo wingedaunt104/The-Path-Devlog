@@ -17,7 +17,7 @@ Players progress through distinct environments connected through a central hub, 
 - Checkpoint and respawn systems
 - Autosave and manual save slots
 - Central hub with level progression
-- Moving and collapsing platforms
+- Several unique environments
 - Dynamic environmental hazards
 - Niagara visual effects
 - Dynamic lightning and storm systems
