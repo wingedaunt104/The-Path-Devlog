@@ -38,7 +38,7 @@ Storming Peaks is a high-altitude level featuring:
 - Blue burning flames in wreckage
 - Ancient ruins
 - Parkour-focused environmental hazards
-
+- Dynamic rain
 This level is currently in active development.
 
 ##Technology
