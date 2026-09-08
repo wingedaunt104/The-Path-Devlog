@@ -59,7 +59,7 @@ The exposure sequence creates a double-flash effect:
 
 2.8 → 1.78 → 2.5 → 1.78
 
-Short delays between each exposure change simulate the irregular flickering of lightning.
+Short delays between each exposure change within the Pos Process Volume simulate the irregular flickering of lightning.
 
 ## Current Status
 
