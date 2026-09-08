@@ -47,20 +47,20 @@ This level is currently in active development.
 - Niagara
 - Git/GitHub
 
-##Development Progress
+## Development Progress
 More detailed updates can be found in the `devlogs` folder and `CHANGELOG.md`.
 
-##Playable Demo
+## Playable Demo
 
 A public playable demo is planned for a future release.
 
-##Project Status
+## Project Status
 
 Currently in active development
 
 The game is planned for commercial release.
 
-##Copyright
+## Copyright
 
 Copyright © 2026 Gavin Hill. All rights reserved.
 
