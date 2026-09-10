@@ -14,9 +14,15 @@ This file tracks major development milestones, gameplay systems, improvements, a
 - Improved environmental composition with additional ruins, floating rock formations, fog, and blue flame landmarks
 - Improved storm lighting and level atmosphere
 
-### Fixed
-- Fixed lightning bolts occasionally failing to spawn due to empty parkour strike arrays
-- Fixed lightning bolt orientation when spawning at different strike locations
+### In Progress
+- Continuing development of the Storming Peaks parkour course
+- Expanding background scenery and floating rock formations
+- Adding additional parkour lightning strike locations
+- Tuning lightning hazard timing and kill radius
+- Improving level readability and visual guidance
+- Adding rain and additional storm effects
+- Adding thunder and environmental storm audio
+- Continuing atmosphere, lighting, fog, and cloud polish
   
 ## September 7 2026
 
