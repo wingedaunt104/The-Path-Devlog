@@ -73,5 +73,6 @@ Implemented:
 - Repeating storm cycle
 - Parkour course strike locations
 -  Player death by lightning
+  
 In Progress:
 - Thunder audio
