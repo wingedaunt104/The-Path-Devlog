@@ -43,5 +43,4 @@ This file tracks major development milestones, gameplay systems, improvements, a
 ### In Progress
 - Storming Peaks parkour course
 - Parkour lightning hazards
-- Thunder audio system
 - Additional environmental detailing
