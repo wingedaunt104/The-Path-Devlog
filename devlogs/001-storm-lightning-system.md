@@ -17,7 +17,8 @@ Each strike:
 3. Activates the lightning bolt
 4. Triggers a rapid double-flash using Post Process exposure
 5. Deactivates the lightning effect
-6. Waits a randomized amount of time before triggering another strike
+6. Plays thunder
+7. Waits a randomized amount of time before triggering another strike
 
 ## Random Strike Locations
 
@@ -70,9 +71,7 @@ Implemented:
 - Niagara lightning bolt
 - Double exposure flash
 - Repeating storm cycle
-
+- Parkour course strike locations
+-  Player death by lightning
 In Progress:
-
-- Parkourcourse strike locations
-- Player death by lightning
 - Thunder audio
