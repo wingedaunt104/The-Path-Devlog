@@ -1,6 +1,28 @@
 # The Path - Changelog
 
 This file tracks major development milestones, gameplay systems, improvements, and fixes made during the development of The Path.
+## September 23, 2026
+
+### Added
+- Added dynamic thunder audio to Storming Peaks lightning strikes
+- Added separate close and distant thunder sound pools
+- Added randomized thunder sound selection to reduce repetitive audio
+- Added distance-based thunder selection using player-to-strike distance
+- Added realistic thunder delay based on lightning strike distance
+
+### Improved
+- Increased spacing between lightning strikes for more natural storm pacing
+- Improved close lightning impact with sharper thunder sounds
+- Improved distant lightning atmosphere with delayed rolling thunder
+- Improved overall storm audio variety and environmental immersion
+
+### In Progress
+- Continuing development of the Storming Peaks parkour course
+- Expanding environmental ruins and wall-running sections
+- Adding rain and additional storm effects
+- Adding additional parkour lightning strike locations
+- Continuing atmosphere, lighting, fog, cloud, and audio polish
+
 ## September 20, 2026
 
 ### Added
