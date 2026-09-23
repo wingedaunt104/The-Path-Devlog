@@ -18,7 +18,7 @@ This file tracks major development milestones, gameplay systems, improvements, a
 
 ### In Progress
 - Continuing development of the Storming Peaks parkour course
-- Expanding environmental ruins and wall-running sections
+- Expanding environmental design of Storming Peaks
 - Adding rain and additional storm effects
 - Adding additional parkour lightning strike locations
 - Continuing atmosphere, lighting, fog, cloud, and audio polish
