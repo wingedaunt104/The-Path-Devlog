@@ -1,6 +1,44 @@
 # The Path - Changelog
 
 This file tracks major development milestones, gameplay systems, improvements, and fixes made during the development of The Path.
+## September 26, 2026
+
+### Added
+- Completed the core Storming Peaks dynamic weather system
+- Added GPU-simulated rain throughout the level
+- Added player-following rain with automatic reattachment after respawn
+- Added looping rain ambience
+- Added randomized close and distant thunder sound pools
+- Added distance-based thunder selection and thunder delay
+- Added custom Niagara lightning impact explosions
+- Added electric flash and outward energy streak effects
+- Added parkour lightning blast zones
+- Added directional lightning knockback based on strike location
+- Added custom ragdoll death impulse support
+- Added stronger physics-based lightning deaths that launch the ragdoll away from the impact
+- Preserved existing projectile ragdoll behavior using fallback impulse logic
+
+### Improved
+- Improved lightning strike frequency and parkour hazard pacing
+- Improved thunder variety and spatial feedback
+- Improved storm atmosphere and environmental audio
+- Improved Niagara performance by moving rain simulation to GPU Compute
+- Improved lightning impact readability with larger flashes and electric burst effects
+- Improved death feedback by combining ragdoll physics with directional impact forces
+- Improved the ragdoll system so different hazards can provide different death impulses
+
+### Fixed
+- Fixed rain not reattaching after player respawn
+- Fixed projectile deaths failing to continue through the normal respawn sequence after adding custom lightning impulses
+- Fixed lightning-affected ragdolls always flying in the same world direction
+- Fixed repeated Niagara lightning impact effects by converting emitters to one-shot lifecycle behavior
+
+### In Progress
+- Continuing development of the Storming Peaks parkour course
+- Expanding ruins and traversal sections
+- Final lighting and atmosphere polish
+- Further tuning lightning hazard balance and impact strength
+
 ## September 23, 2026
 
 ### Added
