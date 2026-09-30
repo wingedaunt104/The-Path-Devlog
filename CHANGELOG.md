@@ -1,3 +1,7 @@
+# The Path - Changelog
+
+This file tracks major development milestones, gameplay systems, improvements, and fixes made during the development of The Path.
+
 ## September 2026
 
 - **Storming Peaks Environment:** Began and substantially developed the Storming Peaks parkour level with volumetric storm clouds, atmospheric lighting, lower cloud layers, floating rock formations, ruins, blue environmental flames, modular wall-running surfaces, and an expanded traversal route. Improved fog, lighting, cloud density, environmental composition, level readability, and the Blender-to-Unreal asset workflow.
