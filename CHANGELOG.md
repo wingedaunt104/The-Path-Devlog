@@ -2,6 +2,29 @@
 
 This file tracks major development milestones, gameplay systems, improvements, and fixes made during the development of The Path.
 
+## October 9, 2026
+
+### Added
+- Completed a major portion of the Storming Peaks parkour course
+- Expanded the main traversal route with additional ruins, floating rock formations, elevated platforms, and interconnected parkour sections
+- Added additional blue flame landmarks throughout the environment to help guide traversal
+
+### Improved
+- Improved the overall layout and environmental composition of Storming Peaks
+- Improved visual guidance using blue flames, ruins, and large rock formations
+- Improved the scale and atmosphere of the level with larger architectural structures and layered traversal areas
+- Continued performance testing using Standalone Game for more accurate gameplay performance
+
+### Fixed
+- Fixed major Niagara fire visibility and camera-angle culling issues
+- Increased Niagara fixed bounds for large blue flame effects so they remain visible from greater distances and wider viewing angles
+- Improved consistency of large environmental fire effects throughout the level
+
+### In Progress
+- Completing the remaining Storming Peaks parkour course
+- Further environment and traversal polish
+- Additional performance optimization and testing
+
 ## September 2026
 
 - **Storming Peaks Environment:** Began and substantially developed the Storming Peaks parkour level with volumetric storm clouds, atmospheric lighting, lower cloud layers, floating rock formations, ruins, blue environmental flames, modular wall-running surfaces, and an expanded traversal route. Improved fog, lighting, cloud density, environmental composition, level readability, and the Blender-to-Unreal asset workflow.
