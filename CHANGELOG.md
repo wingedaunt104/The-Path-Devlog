@@ -1,7 +1,31 @@
 # The Path - Changelog
 
 This file tracks major development milestones, gameplay systems, improvements, and fixes made during the development of The Path.
+## October 15, 2026
 
+### Added
+- Expanded the Storming Peaks parkour course with additional traversal sections, moving rock platforms, ruins, and environmental obstacles
+- Added additional blue flame and rock formations throughout the level to strengthen the atmosphere while also acting as visual guidance for the player
+- Added moving rock platform sequences designed to integrate with the existing parkour route
+
+### Improved
+- Improved route readability by using blue fire landmarks to subtly guide players toward upcoming traversal sections
+- Improved environmental composition by integrating flame effects directly into rock formations and ruins rather than using them purely as decoration
+- Continued refining the overall pacing and layout of the Storming Peaks parkour course
+- Improved large Niagara fire visibility so major flame landmarks remain visible from wider camera angles and longer distances
+- Improved storm lighting and ground readability by adjusting cloud shadow behavior
+
+### Fixed
+- Fixed moving rock and stone platforms failing to properly reset after player death
+- Fixed platforms continuing movement or restarting immediately after respawn
+- Fixed moving platforms becoming unusable after being reset
+- Improved platform reset logic so platforms return to their starting position and can be triggered again after respawning
+
+### In Progress
+- Completing the remaining Storming Peaks parkour course
+- Continuing movement and traversal polish before the demo
+- Further environment detailing and visual guidance
+- Additional performance testing and optimization
 ## October 9, 2026
 
 ### Added
